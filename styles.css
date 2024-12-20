@@ -39,7 +39,7 @@ p {
     height: 50px;
     width: 540px;
     opacity: 60%;
-    font-size: 28px;
+    font-size: 25px;
     text-align: justify;
     color: #5D5D7D;
 }
@@ -91,7 +91,7 @@ img {
 @media screen and (max-width: 1270px) {
     p {
         width: 500px;
-        font-size: 25px;
+        font-size: 22px;
     }
 }
 
@@ -156,6 +156,8 @@ img {
 @media screen and (max-width: 880px) {
     p {
         width: 300px;
+        font-size: 18px;
+        margin-bottom: 10px;
     }
 }
 

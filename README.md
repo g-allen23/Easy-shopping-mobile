@@ -6,6 +6,7 @@
 <h2>Tenologias utilizadas</h2>
 <br>
   - HTML
+  <br>
   - CSS
 
 <img src="https://github.com/g-allen23/Easy-shopping-mobile/blob/main/assets/img/Desktop.png?raw=true"/>
